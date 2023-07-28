@@ -15,5 +15,6 @@
 * CSS
 
 ## Screenshots
-![Screenshot da tela inicial do AluraPlay](https://imgur.com/aymxEsh.png#vitrinedev))
-![Screenshot da tela do formulário do AluraPlay](https://imgur.com/ShNADf2.png#vitrinedev)
+
+![Screenshot da tela inicial do AluraBook](https://github.com/AnaKercia1/Alura_Play/assets/123599474/3ab6d335-11ed-46ed-93c7-d31ff904ed7a))
+
